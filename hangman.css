@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    padding: 5px;
+    margin: 0px;
+    border:0px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(193, 15, 15);
+    padding: 0px;
+    margin: 0px;
+    border:0px;
+}
+
+#hashes{
+    text-align:center;
+    padding: 0px 10px 10px 10px;
+    font-size: 5em;
+    margin: 0px;
+    border: 0px;
+    
+}
+
+#messageloss{
+    text-align:center;
+    padding: 0px 10px 10px 10px;
+    font-size: 2em;
+    margin: 0px;
+    border: 0px;
+    color: rgb(138, 41, 41);
+}
+
+#messagewin{
+    text-align:center;
+    padding: 0px 10px 10px 10px;
+    font-size: 2em;
+    margin: 0px;
+    border: 0px;
+    color: rgb(58, 130, 58)
+}
+
+
+div{
+    text-align:center;
+}
+
+button{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    padding:10px;
+    margin: 10px;
+    cursor:pointer;
+    border-radius: 10px;
+    transition: 0.3s ease;
+}
+
+button:hover{
+    color: black;
+    background-color: aquamarine;
+}
+
+img{
+    height : 200px;
+    width: 200 px;
+}
+
+
+
